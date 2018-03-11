@@ -9,7 +9,7 @@ First generate a project using vue-cli 3.0 [like this](https://github.com/vuejs/
 To install and invoke the NP plugin...
 
 ```
-yarn add vue-cli-plugin-np
+yarn add noprotocol/vue-cli-plugin-np
 vue invoke np
 ```
 
